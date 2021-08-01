@@ -19,6 +19,6 @@
 ### Speaker’s Bio:
 Michael Wylie, MBA, CISSP is the Sr. Manager of a 24/7/365 global managed threat hunting team. Prior to his current role, he was the Director of Cybersecurity at a top 100 CPA firm where he built out the offensive/defensive security service practice. Michael has developed and taught numerous courses for the U.S. Department of Defense, DEFCON, Colleges, and for clients around the world. Michael is the winner of numerous SANS challenge coin and holds the following credentials: CISSP, CCNA R&S, GPEN, GMON, GCFE, TPN, CEH, CEI, VCP-DCV, CHPA, PenTest+, CNVP, Microsoft Azure, and more.
 
-Web: https://themikewylie.com
-Twitter: @TheMikeWylie
-LinkedIn: https://linkedin.com/in/mwylie
+* Web: https://themikewylie.com
+* Twitter: @TheMikeWylie
+* LinkedIn: https://linkedin.com/in/mwylie
