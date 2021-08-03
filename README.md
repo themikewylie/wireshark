@@ -12,7 +12,7 @@
 ### Make sure you install the following before the start of the workshop:
 * Wireshark: https://www.wireshark.org/download.html
 * 7-Zip (used to decrypt the Lab files): https://www.7-zip.org/download.html
-* Lab PCAPs (password: infected): https://wireshark-workshop.s3-us-west-2.amazonaws.com/lab/PCAPs.zip
+* Lab PCAPs (password: infected): https://wireshark-workshop.s3.us-west-2.amazonaws.com/lab/Labs_v2.zip
 * GeoIP database: https://wireshark-workshop.s3-us-west-2.amazonaws.com/lab/GeoIP.zip
 * Wireshark Profiles: https://github.com/themikewylie/wireshark/blob/main/Wireshark_Profiles_v2.zip
 
