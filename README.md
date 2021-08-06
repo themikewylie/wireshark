@@ -9,7 +9,7 @@
 * Minimum of 4Gb RAM (preferably 8Gb or more).
 * The lab PCAP files contain malware samples and therefore a non-production / non-work computer is recommended.  While the malware binaries are contained in the .pcap/.pcapng files, it is possible for attendees to extract the files onto their system. If attendees are concerned about the contents of the packet capture files, use the an isolated virtual machine. 
 
-### Make sure you install the following before the start of the workshop:
+### Make sure you download/install the following before the start of the workshop:
 * Wireshark: https://www.wireshark.org/download.html
 * 7-Zip (used to decrypt the Lab files): https://www.7-zip.org/download.html
 * Lab PCAPs (password: infected): https://wireshark-workshop.s3.us-west-2.amazonaws.com/Labs.zip
