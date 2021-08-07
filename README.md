@@ -15,6 +15,7 @@
 * Lab PCAPs (password: infected): https://wireshark-workshop.s3.us-west-2.amazonaws.com/Labs.zip
 * GeoIP database: https://wireshark-workshop.s3-us-west-2.amazonaws.com/lab/GeoIP.zip
 * Wireshark Profiles: https://github.com/themikewylie/wireshark/blob/main/Profiles.zip
+* Slide deck: https://wireshark-workshop.s3.us-west-2.amazonaws.com/themikewylie-workshop-wireshark-DC29-4hr.pdf
 
 ### Speaker’s Bio:
 Michael Wylie, MBA, CISSP is the Sr. Manager of a 24/7/365 global managed threat hunting team. Prior to his current role, he was the Director of Cybersecurity at a top 100 CPA firm where he built out the offensive/defensive security service practice. Michael has developed and taught numerous courses for the U.S. Department of Defense, DEFCON, Colleges, and for clients around the world. Michael is the winner of numerous SANS challenge coin and holds the following credentials: CISSP, CCNA R&S, GPEN, GMON, GCFE, TPN, CEH, CEI, VCP-DCV, CHPA, PenTest+, CNVP, Microsoft Azure, and more.
